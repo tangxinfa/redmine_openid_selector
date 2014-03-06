@@ -1,3 +1,2 @@
-# English strings go here for Rails i18n
 en:
-  my_label: "My label"
+  openid_log_in_with: "Log in with account on one of these sites:"
